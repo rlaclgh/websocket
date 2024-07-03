@@ -1,0 +1,16 @@
+:root {
+  --white: #ffffff;
+  --default-black: #1d1e1f;
+  --primary-pink: #ff5a5f;
+  --secondary-pink: #ff667a;
+  --grey-100: #f6f7f9;
+  --grey-300: #ebedef;
+  --grey-400: #d9d9d9;
+  --green-400: #61c394;
+  --default-grey: #93989c;
+  --blue: #3f8ff2;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
